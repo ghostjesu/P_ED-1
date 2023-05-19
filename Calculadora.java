@@ -74,5 +74,11 @@ public class Calculadora {
         }
         return result;
     }
+	// Modificacion Jesus
+	
+	public double sacarPorcentaje() {
+        return (y * x) / 100.0;
+    }
+	
 	
 }
